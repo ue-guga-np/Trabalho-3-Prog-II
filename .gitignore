@@ -1,3 +1,10 @@
+obs.txt
+target/
+nbproject/private/
+.env
+settings.xml
+Thumbs.db
+
 # Compiled class file
 *.class
 
